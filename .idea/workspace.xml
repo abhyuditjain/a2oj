@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89b1d983-65aa-40dd-8232-63666e13436a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/ChatRoom.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/ChatRoom.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/HelpfulMaths.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/HelpfulMaths.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/LuckyDivision.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/LuckyDivision.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/PetyaAndStrings.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/PetyaAndStrings.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/StringTask.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/StringTask.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/Twins.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/Twins.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/Watermelon.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/Watermelon.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/codeforces/div2a/WayTooLongWords.java" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/WayTooLongWords.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/ArrivalOfTheGeneral.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +14,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ArrivalOfTheGeneral.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/ArrivalOfTheGeneral.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/Twins.java" />
         <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/Watermelon.java" />
         <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/WayTooLongWords.java" />
+        <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/ArrivalOfTheGeneral.java" />
       </list>
     </option>
   </component>
@@ -193,7 +199,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeautifulMatrix">
+  <component name="RunManager" selected="Application.ArrivalOfTheGeneral">
+    <configuration name="ArrivalOfTheGeneral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.codeforces.div2a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.codeforces.div2a.ArrivalOfTheGeneral" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="A2OJ" />
+      <envs />
+    </configuration>
     <configuration name="BeautifulMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -270,25 +295,6 @@
       <module name="A2OJ" />
       <envs />
     </configuration>
-    <configuration name="Twins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.codeforces.div2a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.codeforces.div2a.Twins" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="A2OJ" />
-      <envs />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -305,19 +311,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Twins" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ChatRoom" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LuckyDivision" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Presents" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BeautifulMatrix" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ChatRoom" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LuckyDivision" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Presents" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BeautifulMatrix" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ArrivalOfTheGeneral" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BeautifulMatrix" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Presents" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LuckyDivision" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ChatRoom" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Twins" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ArrivalOfTheGeneral" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BeautifulMatrix" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Presents" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LuckyDivision" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ChatRoom" />
       </list>
     </recent_temporary>
   </component>
@@ -348,12 +354,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2917647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2917647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -442,16 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/ChatRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/HelpfulMaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -529,6 +525,24 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/ChatRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/ArrivalOfTheGeneral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
