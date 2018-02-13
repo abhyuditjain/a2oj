@@ -1,7 +1,5 @@
 package com.company.codeforces.div2a;
 
-import java.util.*;
-
 /**
  * Petya loves lucky numbers. Everybody knows that lucky numbers are positive integers whose decimal representation contains only the lucky digits 4 and 7. For example, numbers 47, 744, 4 are lucky and 5, 17, 467 are not.
  * <p>
@@ -13,6 +11,8 @@ import java.util.*;
  * Output
  * In the only line print "YES" (without the quotes), if number n is almost lucky. Otherwise, print "NO" (without the quotes).
  */
+
+import java.util.*;
 
 public class LuckyDivision {
     private static Scanner scanner = new Scanner(System.in);
