@@ -9,12 +9,14 @@ public class PetyaAndStrings {
         String first = scanner.nextLine();
         String second = scanner.nextLine();
 
-        System.out.println(first.compareTo(second));
+        System.out.println(compare(first, second));
     }
 
     private static int compare(String first, String second) {
-        for (int i = 0; i < first.length(); i++) {
-            if ((int) fir)
+        int res = first.compareToIgnoreCase(second);
+        if (res == 0) {
+            return 0;
         }
+        return res/Math.abs(res);
     }
 }
