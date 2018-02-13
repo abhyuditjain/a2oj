@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89b1d983-65aa-40dd-8232-63666e13436a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/LuckyDivision.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/codeforces/div2a/Presents.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -103,12 +103,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LuckyDivision.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LuckyDivision.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/LuckyDivision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Presents.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/Presents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/Twins.java" />
         <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/ChatRoom.java" />
         <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/LuckyDivision.java" />
+        <option value="$PROJECT_DIR$/src/com/company/codeforces/div2a/Presents.java" />
       </list>
     </option>
   </component>
@@ -284,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LuckyDivision">
+  <component name="RunManager" selected="Application.Presents">
     <configuration name="ChatRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -342,14 +355,14 @@
       <module name="A2OJ" />
       <envs />
     </configuration>
-    <configuration name="PetyaAndStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Presents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.company.codeforces.div2a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.codeforces.div2a.PetyaAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.company.codeforces.div2a.Presents" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -396,19 +409,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PetyaAndStrings" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HelpfulMaths" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Twins" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ChatRoom" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LuckyDivision" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HelpfulMaths" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Twins" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ChatRoom" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LuckyDivision" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Presents" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LuckyDivision" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ChatRoom" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Twins" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelpfulMaths" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PetyaAndStrings" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Presents" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LuckyDivision" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ChatRoom" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Twins" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HelpfulMaths" />
       </list>
     </recent_temporary>
   </component>
@@ -526,10 +539,10 @@
         <state relative-caret-position="1">
           <caret line="2119" column="19" lean-forward="false" selection-start-line="2119" selection-start-column="19" selection-end-line="2119" selection-end-column="19" />
           <folding>
-            <element signature="e#82616#82617#0" expanded="true" />
-            <element signature="e#82667#82668#0" expanded="true" />
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
+            <element signature="e#82616#82617#0" expanded="false" />
+            <element signature="e#82667#82668#0" expanded="false" />
+            <element signature="e#94598#94599#0" expanded="false" />
+            <element signature="e#94636#94637#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -600,9 +613,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/LuckyDivision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/codeforces/div2a/Presents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
