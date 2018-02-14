@@ -39,19 +39,22 @@ public class ArrivalOfTheGeneral {
         int maxValue = Integer.MIN_VALUE;
 
         for (int i = 0; i < arr.length; i++) {
+            // <= because we want min strictly in the rightmost pos
             if (arr[i] <= minValue) {
                 minValue = arr[i];
                 minIndex = i;
             }
-            if (arr[i] >= maxValue) {
+
+            // > because we want max strictly in the leftmost pos.
+            if (arr[i] > maxValue) {
                 maxIndex = i;
                 maxValue = arr[i];
             }
         }
 
-        System.out.println("MIN VALUE = " + minValue + " AT " + minIndex);
-        System.out.println("MAX VALUE = " + maxValue + " AT " + maxIndex);
+        if (minIndex > maxIndex)
+            return (maxIndex) + (arr.length - 1 - minIndex);
 
-        return (maxIndex) + (arr.length - 1 - minIndex);
+        return (maxIndex - 1) + (arr.length - 1 - minIndex);
     }
 }
